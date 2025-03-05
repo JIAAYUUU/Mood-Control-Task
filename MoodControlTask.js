@@ -71,15 +71,15 @@ psychoJS.start({
     expName: expName,
     expInfo: expInfo,
     resources: [
-        { name: 'resources/Instructions_reward_part1.xlsx', path: 'resources/Instructions_reward_part1.xlsx' }
-        { name: 'resources/Instructions_reward_part2.xlsx', path: 'resources/Instructions_reward_part2.xlsx' }
+        { name: 'resources/Instructions_reward_part1.xlsx', path: 'resources/Instructions_reward_part1.xlsx' },
+        { name: 'resources/Instructions_reward_part2.xlsx', path: 'resources/Instructions_reward_part2.xlsx' },
         { name: 'resources/doRatingConditions.xlsx', path: 'resources/doRatingConditions.xlsx' },
         { name: 'resources/HighAmounts_reward.xlsx', path: 'resources/HighAmounts_reward.xlsx' },
         { name: 'resources/Blocks_3block.xlsx', path: 'resources/Blocks_3block.xlsx' },
         { name: 'resources/black.png', path: 'resources/black.png' },
         { name: 'resources/example_start.png', path: 'resources/example_start.png' },
         { name: 'resources/example_certain.png', path: 'resources/example_certain.png' },
-        { name: 'resources/example_gamble.png', path: 'resources/example_gamble.png' }
+        { name: 'resources/example_gamble.png', path: 'resources/example_gamble.png' },
         { name: 'resources/example_win.png', path: 'resources/example_win.png' }
     ]
 });
